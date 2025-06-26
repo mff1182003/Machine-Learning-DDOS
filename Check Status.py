@@ -13,9 +13,9 @@ from collections import Counter
 MODEL_PATH = "modelrechuan.pkl"
 INPUT_FOLDER = "Data"
 OUTPUT_FILE = "predicted_output.csv"
-SENDER_EMAIL = "mff1182003@gmail.com"
-SENDER_PASSWORD = "kvcb dtvo umwr tdlr"
-RECEIVER_EMAIL = "danghuutoan1182003@gmail.com"
+SENDER_EMAIL = ""
+SENDER_PASSWORD = ""
+RECEIVER_EMAIL = ""
 
 # Ngưỡng số lượng flow cần có để 1 IP được coi là nghi ngờ tấn công
 THRESHOLD = 5
